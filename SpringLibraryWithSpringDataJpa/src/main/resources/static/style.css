@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+body{
+    background-color: #41B3A3;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+.books-info{
+    margin: 10px;
+    width: 100px;
+    border-color: black;
+
+}
+
+.menu-box{
+    background-color: #C38D9E;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: black;
+    width: 600px;
+    height: 50px;
+    display:flex;
+}
+
+.books-info-wrapper{
+    background-color: #E8A87C;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border-color: black;
+    width: 600px;
+    height: 50px;
+}
+
+.books-info-name{
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 260px;
+    height: 40px;
+    vertical-align: middle;
+
+}
+
+.books-info-author{
+    margin-top: -40px;
+    margin-left: 270px;
+    width: 260px;
+    height: 40px;
+    vertical-align: middle;
+}
+.books-info-a{
+    text-decoration: none;
+    color: black;
+}
+.custom-btn {
+    width: 130px;
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+     box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+     7px 7px 20px 0px rgba(0,0,0,.1),
+     4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+  }
+  .button{
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 10px;
+    font-size: 14px;
+    background-color: #41B3A3;
+
+  }
+
+
+
