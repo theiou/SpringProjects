@@ -1,9 +1,9 @@
 # SpringProjects
 Spring Framework приложение библиотека
 
-#SpringLibrary
+# SpringLibrary
 CRUD Spring приложение с использованием jdbcTemplate
 
-#SpringLibraryWithSpringDataJpa
+# SpringLibraryWithSpringDataJpa
 CRUD Spring приложение с использованием spring data jpa
 
